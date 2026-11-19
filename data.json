@@ -1,0 +1,140 @@
+{
+ "pairs": [
+  {
+   "id": "demon-aria",
+   "chars": [
+    "데몬",
+    "아리아"
+   ],
+   "cover": "img:gmwn8jfodi9oo",
+   "items": [
+    {
+     "cat": "외형",
+     "id": "imwn84ulj",
+     "label": "기본",
+     "text": "1::mature male, 4::aged up,3::black hair,::1::short hair,1::wolf cut::  1::wispy bangs, messy hair,strong jawline, delicate strands, fluffy hair, hair behind ear,side-parted bangs, side-swept bangs, eyebrows hidden by hair::,3::dark cherry eyes,::pale skin,3::broad shoulders, athletic body,1::jitome,black ear piercing,small hoop earring,3::dark red eyes,thick neck\nall white racing suit + pale gray point\n\n흉터 : 3::very large sharp burn scar on the cheek, 0.3::red scar,::",
+     "who": 0
+    },
+    {
+     "cat": "외형",
+     "id": "imwn8666f",
+     "label": "기본",
+     "text": "girl,pale skin, 3::black hair::, 2::long hair::, straight hair, 2::blunt bangs::, ponytail, 2::green eyes::, 1.3::tareme::, droopy eyes, 1::aegyo sal::, 2::long eyelashes::, gentle eyes::, small nose, fit body, slender waist, curvy, smooth skin, 0.8::large breasts::",
+     "who": 1
+    }
+   ],
+   "name": "데몬 × 아리아",
+   "order": 1,
+   "tag": "BURNING"
+  },
+  {
+   "id": "hanya-reika",
+   "chars": [
+    "한야",
+    "레이카"
+   ],
+   "cover": "img:gmwn8oqhzgwy0",
+   "items": [
+    {
+     "cat": "외형",
+     "id": "imwn89vjy",
+     "label": "기본",
+     "text": "mature male, 3::aged up:: pale skin,parted lips,1::short hair,1::fluffy hair,0.8::hair between eyes, :: 3::ash pink hair,3::ink black eyes,0.8::jitome,2::aegyo sal, ::0.5::sharp gaze, half-closed eyes::thick neck,3::broad shoulders\n\ndark navy racing suit",
+     "who": 0
+    },
+    {
+     "cat": "외형",
+     "id": "imwn8bezd",
+     "label": "기본",
+     "text": "girl,  0.8::adult woman::, 1.3::dark blue hair, navy hair::,   long hair, straight hair, 1.3::blunt bangs::, grey eyes, 1.3::tareme::, -1::tsurime::, droopy eyes, long eyelashes::, 1.2::round eyes::, 1.2::aegyo sal::, pale skin, large breasts,\n\nnavy racing suit",
+     "who": 1
+    }
+   ],
+   "name": "한야 × 레이카",
+   "order": 3,
+   "tag": "PAIR"
+  },
+  {
+   "id": "hanya-ririka",
+   "chars": [
+    "한야",
+    "리리카"
+   ],
+   "cover": "img:gmwn8kmigod6q",
+   "items": [
+    {
+     "cat": "외형",
+     "id": "imwn8bxa4",
+     "label": "기본",
+     "text": "mature male, 3::aged up:: pale skin,parted lips,1::short hair,1::fluffy hair,0.8::hair between eyes, :: 3::ash pink hair,3::ink black eyes,0.8::jitome,2::aegyo sal, ::0.5::sharp gaze, half-closed eyes::thick neck,3::broad shoulders\n\n\ndark navy racing suit",
+     "who": 0
+    },
+    {
+     "cat": "외형",
+     "id": "imwn8cc10",
+     "label": "기본",
+     "text": "girl, 0.8::adult::, 2::gyaru::, pale skin, 3::light blue hair::, 2::long hair::, wavy hair, 1.5::side ponytail::, blunt bangs, 3::pink eyes::, 1.5::tsurime::, cat eyes, upturned eyes, 1.3::thick eyeliner::, winged eyeliner, long eyelashes, 1::aegyo sal::, smirk, confident, pink pom pom earrings, multiple earrings, long nails, light blue nails, nail art, 1.2::large breasts::, oversized team jacket, off shoulder, crop top,",
+     "who": 1
+    }
+   ],
+   "name": "한야 × 리리카",
+   "order": 2,
+   "tag": "PAIR"
+  },
+  {
+   "id": "ivan-eloise",
+   "chars": [
+    "이반",
+    "엘로이즈"
+   ],
+   "cover": "img:gmwn8p9pdlk7h",
+   "items": [
+    {
+     "cat": "외형",
+     "id": "imwn87ibb",
+     "label": "기본",
+     "text": "boy, mature male, 3::aged up:: , pale skin,2::short hair::,parted hair,hair,0.2::hair slicked back,3::ash grey hair,3::dark black eyes,0.8::jitome,2::aegyo sal::0.5::sharp gaze, half-closed eyes::1::thick neck::4::broad shoulders,\n\ndark green racing suit",
+     "who": 0
+    },
+    {
+     "cat": "외형",
+     "id": "imwn889y5",
+     "label": "기본",
+     "text": "girl, fair skin, 3::black hair::, 2::long hair::, 1.5::half updo::, wavy hair, hair ribbon, sidelocks, see-through bangs, 3::purple eyes::, 1.5::tareme::, droopy eyes, round eyes, gentle eyes, 2::long eyelashes::, 1::aegyo sal::, beautiful face, 1.2::light blush::, shy,, 1.3::large breasts::, slender waist, dark green team polo shirt, lanyard, blank id card, holding clipboard to chest, earpiece,",
+     "who": 1
+    }
+   ],
+   "name": "이반 × 엘로이즈",
+   "order": 4,
+   "tag": "PAIR"
+  },
+  {
+   "id": "pmwm9kkiw",
+   "chars": [
+    "버닝",
+    "세라핌"
+   ],
+   "cover": "",
+   "items": [
+    {
+     "cat": "외형",
+     "id": "imwn8dbxx",
+     "label": "기본",
+     "text": "boy, muscular male, tsurime, stoic,  fang, 1::jet black eyes, V-shaped eyebrows, 1.5::vivid red short hair, (5:5)parted bangs, curtained bangs::, see through bangs, 2::white bandage(nose, cheek)::, 2::aged up::, thick neck, broad shoulders, toned, black tactical uniform",
+     "who": 0
+    },
+    {
+     "cat": "외형",
+     "id": "imwn8efcv",
+     "label": "기본",
+     "text": "girl, pale skin, 3::black hair::, 1.5::silver blue hair, blue-black hair, hair sheen::, 2::long hair::, 1.5::straight hair::, 1.3::see-through bangs, wispy bangs::, 3::grey eyes::, 1.5::tsurime::,  upturned eyes, long eyelashes, 1.2:: glossy lips::, light blush, big breasts,black tactical uniform",
+     "who": 0
+    }
+   ],
+   "name": "버닝 x 세라핌",
+   "order": 5,
+   "tag": "Burning"
+  }
+ ],
+ "images": {}
+}
